@@ -8,9 +8,13 @@ To create a Dashboard for Pizza sales using SQL and Powere Bi, For the year 2015
 
 A. Key Performance Indicators (KPIs)
 1️⃣ Total Revenue – The total earnings from all pizza sales.
+
 2️⃣ Average Order Value (AOV) – The average amount spent per order, indicating customer spending behavior.
+
 3️⃣ Total Pizzas Sold – The total number of pizzas ordered across all transactions.
+
 4️⃣ Total Orders – The count of unique orders placed.
+
 5️⃣ Average Pizzas Per Order – The ratio of pizzas sold per order, useful for menu optimization.
 
 B. Daily & Monthly Order Trends
